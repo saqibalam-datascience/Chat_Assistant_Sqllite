@@ -1,5 +1,6 @@
 # Chat_Assistant_Sqllite
 
+## Application : https://chatassistantsqllitesaqibalam.streamlit.app/
 1. Explanation of How the Assistant Works:
 The assistant uses Google’s Gemini model to convert natural language questions into SQL queries. The user enters a question, the model generates the corresponding SQL query, which is executed on an SQLite database, and the results are displayed in the app.
 
